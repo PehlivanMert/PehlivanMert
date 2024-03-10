@@ -1,26 +1,14 @@
 ![colessium.jpg](colessium.jpg)
 
+<div align="center">
+
 # Hello! I'm Mert 👨‍💻
 
-#### I'm a Full Stack Web Developer with a passion for creating clean, maintainable code and tackling complex problems to
+#### I'm a Full Stack Web Developer with a passion for creating clean, maintainable code and tackling complex problems to build innovative software. 🛠️ Currently, I am immersed in various projects, including web development. My thirst for knowledge drives me to constantly explore new technologies and their potential to solve real-world challenges. 🚀 As a strong believer in best practices and design principles, I write code that is not only functional but also sustainable.
 
-#### build innovative software. 🛠️ Currently, I am immersed in various projects, including web development. My thirst for
+#### 💡 I primarily focus on the Java language, while being open to continuous learning. My full-stack skills extend to HTML, CSS, and JavaScript, along with front-end frameworks like React and back-end frameworks like Node.js and Express. 🌐
 
-#### knowledge drives me to constantly explore new technologies and their potential to solve real-world challenges. 🚀 As a
-
-#### strong believer in best practices and design principles, I write code that is not only functional but also sustainable.
-
-#### 💡 I primarily focus on the Java language, while being open to continuous learning. My full-stack skills extend to HTML,
-
-#### CSS, and JavaScript, along with front-end frameworks like React and back-end frameworks like Node.js and Express. 🌐
-
-#### Beyond coding, I am an explorer driven by curiosity to discover new places, meet inspiring people, and research anything
-
-#### that interests me. 🌍 You can find my Sample Projects below. If you want to collaborate on projects, discuss the coding
-
-#### world or just network, feel free to reach out. ✨ I am always eager to meet my fellow developers and embark on this
-
-#### journey of growth together.
+#### Beyond coding, I am an explorer driven by curiosity to discover new places, meet inspiring people, and research anything that interests me. 🌍 You can find my Sample Projects below. If you want to collaborate on projects, discuss the coding world or just network, feel free to reach out. ✨ I am always eager to meet my fellow developers and embark on this journey of growth together.
 
 <div>
   <img alt="code.gif" src="code.gif" height="450" width="600" align="center"/>
@@ -65,4 +53,5 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22477552/mert-pehlivan)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/pehlivannmert)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/PehlivanMert/)
+</div>
 </div>
