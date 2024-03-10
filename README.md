@@ -1,4 +1,4 @@
-<img alt="colessium.jpg" src="C:\Users\Pehli\Desktop\colessium.jpg"/>
+![colessium.jpg](colessium.jpg)
 
 # Hello! I'm Mert 👨‍💻
 
@@ -23,7 +23,7 @@
 #### journey of growth together.
 
 <div>
-  <img alt="code.gif" src="C:\Users\Pehli\Desktop\code.gif" height="450" width="600" align="right"/>
+  <img alt="code.gif" src="code.gif" height="450" width="600" align="right"/>
 
 ## Contact and Social Media
 
