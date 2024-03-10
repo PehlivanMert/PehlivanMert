@@ -23,7 +23,7 @@
 #### journey of growth together.
 
 <div>
-  <img alt="code.gif" src="code.gif" height="450" width="600" align="right"/>
+  <img alt="code.gif" src="code.gif" height="450" width="600" align="center"/>
 
 ## Languages and Tools
 
